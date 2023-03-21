@@ -1,0 +1,15 @@
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/bin/Debug/net6.0/Gestion des stocks
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/bin/Debug/net6.0/Gestion des stocks.deps.json
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/bin/Debug/net6.0/Gestion des stocks.runtimeconfig.json
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/bin/Debug/net6.0/Gestion des stocks.dll
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/bin/Debug/net6.0/Gestion des stocks.pdb
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.csproj.AssemblyReference.cache
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.AssemblyInfoInputs.cache
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.AssemblyInfo.cs
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.csproj.CoreCompileInputs.cache
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.dll
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/refint/Gestion des stocks.dll
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.pdb
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/Gestion des stocks.genruntimeconfig.cache
+/Users/florencemartin/PROJET C#/Gestion des stocks/Gestion des stocks/obj/Debug/net6.0/ref/Gestion des stocks.dll
